@@ -20,6 +20,9 @@ This Power BI dashboard provides a comprehensive analysis of booking data for a 
 
 # 📊 Interactive Visualizations:
 * Pie charts, bar graphs, and line charts with slicers and filters.
+# Screenshots
+![Dashboard Screenshot](https://github.com/SunilKulali/Multi-Service-Business-Analysis/blob/main/Screenshot%20(5).png)
+
 
 # Tech Stack:
 * Power BI: For creating the dashboard and data visualizations.
